@@ -5,6 +5,7 @@ using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.UI;
 
+// 金币
 public class coin : MonoBehaviour
 {
     // 全局变量 - 几个场景中都可以用

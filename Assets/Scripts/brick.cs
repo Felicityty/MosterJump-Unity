@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 木块
 public class brick : MonoBehaviour
 {
     public Transform ceilingCheck; // 天花板检测

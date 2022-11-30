@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// camera的自移动
 public class cameraMove : MonoBehaviour
 {
     public Transform target;

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement; // 重新加载场景
 
+// moster的生命 - 掉下去死亡
 public class mosterLife : MonoBehaviour
 {
     public GameObject sun;

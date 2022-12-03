@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// moster的移动
 public class mosterMove : MonoBehaviour
 {
     Rigidbody2D rb;

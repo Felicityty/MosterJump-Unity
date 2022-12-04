@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 浮动平台
 public class movingPlatform : MonoBehaviour
 {
     // SerializeField 序列化 这样既保证是私有的 又可以在Inspector面板里操作

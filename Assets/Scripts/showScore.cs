@@ -4,6 +4,7 @@ using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.UI;
 
+// 显示coin个数
 public class showScore : MonoBehaviour
 {
     [SerializeField] private Text coinText;

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 蹦床
 public class springBed : MonoBehaviour
 {
     public float jumpForce = 12f;

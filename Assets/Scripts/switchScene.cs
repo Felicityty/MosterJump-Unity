@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement; // 场景切换就要写这个
 
+// 几个场景的切换
 public class switchScene : MonoBehaviour
 {
     // Start is called before the first frame update

@@ -43,9 +43,13 @@
 
 
 ## 02 - 整体系统效果：
-
-
-
+![image](https://github.com/Felicityty/Unity_MosterJump/blob/master/Assets/Renderings/start.png)
+![image](https://github.com/Felicityty/Unity_MosterJump/blob/master/Assets/Renderings/game01.png)
+![image](https://github.com/Felicityty/Unity_MosterJump/blob/master/Assets/Renderings/game02.png)
+![image](https://github.com/Felicityty/Unity_MosterJump/blob/master/Assets/Renderings/pause.png)
+![image](https://github.com/Felicityty/Unity_MosterJump/blob/master/Assets/Renderings/game03.png)
+![image](https://github.com/Felicityty/Unity_MosterJump/blob/master/Assets/Renderings/game04.png)
+![image](https://github.com/Felicityty/Unity_MosterJump/blob/master/Assets/Renderings/over.png)
 
 
 ## 03 - 遇到问题及其解决方案
